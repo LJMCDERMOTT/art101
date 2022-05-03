@@ -9,8 +9,8 @@ function myMultipy(x){
 }
 
 // test functions
-console.log("What is 3 multiplied by 2?", my Multiply(3));
-console.log("What is 12 multiplied by 2?", my Multiply(12));
+console.log("What is 3 multiplied by 2?", myMultiply(3));
+console.log("What is 12 multiplied by 2?", myMultiply(12));
 
 array = [2,4,10,11]
 console.log("My Array", array);
