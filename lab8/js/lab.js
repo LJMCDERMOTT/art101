@@ -4,7 +4,7 @@
  *Description: Practicing in Javascript with CallBacks and Functions
  */
 
-function myMultipy(x){
+function myMultiply(x){
   return ( x * 2);
 }
 
